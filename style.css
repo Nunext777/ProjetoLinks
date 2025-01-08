@@ -172,6 +172,10 @@ footer {
   font-size: 14px;
 }
 
+.footer {
+  text-decoration: none;
+}
+
 /* media queries */
 @media (min-width: 700px) {
   :root {
